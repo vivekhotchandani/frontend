@@ -1,1 +1,2 @@
-this is the repository for github
+this is the repository for frontend of my project
+
